@@ -3,8 +3,8 @@ README.md
 Ad147.github.io
 ================================================================================
 
-- [HomePage](index.html)
-- [TestPage](test.html)
+- [HomePage](https://Ad147.github.io)
+- [TestPage](https://Ad147.github.io/test.html)
 
 --------------------------------------------------------------------------------
 
